@@ -21,7 +21,7 @@ Please [contact us](https://accuval.co.uk/contact/) for pricing and API keys.
 ## Method 2: Property Details
 If UPRN is unavailable or unknown, AccuVal can still value properties based on their Postcode and basic information. This method is also useful to value properties that have changed or do not exist (yet)!
 
-To value a property using it’, the following command can be used:
+To value a property using it’ details, the following command can be used:
 
 `curl -H "apikey: replace-with-your-key" "https://accuval.co.uk/api/?postcode=HA9+0FR&address=Flat+1+Archery+Court,+31,+Olympic+Way&type=Flat/Maisonette&rooms=4&area=72&uom=m&epc_current=B&epc_potential=B&age=2012+Onwards&duration=Leasehold&new=No&condition=Average"`
 
