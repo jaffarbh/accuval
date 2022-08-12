@@ -19,7 +19,7 @@ in JSON format. Obviously, the UPRN is required.
 Please [contact us](https://accuval.co.uk/contact/) for pricing and API keys.
 
 ## Method 2: Property Details
-If UPRN is unavailable or unknown, AccuVal can still value properties based on their Postcode and basic information. This method is also useful to value properties that have changed or do not exist (yet)!
+If UPRN is unavailable or unknown, AccuVal can still value properties based on their postcodes and basic information. This method is also useful to value properties that have changed or do not exist (yet)!
 
 To value a property using it’ details, the following command can be used:
 
