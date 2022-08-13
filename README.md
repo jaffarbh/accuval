@@ -32,7 +32,7 @@ Which would return:
 ### Required parameters
 
 #### `postcode`
-A valid UK postcode, i.e. HA9 0FR. Currently only Britain and Wales are supported. **Please note that whitespaces aren't allowed, so in the example above using curl, whitespaces are replaced with the '+' symbol.**
+A valid UK postcode, i.e. HA9 0FR. Currently only England and Wales are supported. **Please note that whitespaces aren't allowed, so in the example above using curl, whitespaces are replaced with the '+' symbol.**
 
 #### `type`
 - The property type,  which can one of:
